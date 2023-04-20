@@ -2,7 +2,11 @@
 
 ## About me
 
-Svelte lover ❤️
+Full time front-end developer. 
+I use Vue 3 + Vite for daily job.
+but deep deep down insde,
+
+I'm a Svelte lover ❤️
 
 
 ## Stats
