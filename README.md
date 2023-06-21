@@ -24,7 +24,6 @@ I'm a `Svelte` lover ❤️
 [![](https://img.shields.io/badge/-Vite-000?&logo=Vite)](https://tanx.in?ref=github)
 [![](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify&logoColor=AEDDFF)](https://tanx.in?ref=github)
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://tanx.in?ref=github)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://tanx.in?ref=github)
 [![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://tanx.in?ref=github)
 [![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://tanx.in?ref=github)
 
