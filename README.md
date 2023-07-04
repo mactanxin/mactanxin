@@ -29,7 +29,11 @@ I'm a `Svelte` lover ❤️
 
 
 ## Stats
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mactanxin.vercel.app/api?username=mactanxin&count_private=true&theme=tokyonight" /><img align="center" src="https://github-readme-stats-mactanxin.vercel.app/api?username=mactanxin&count_private=true" />
+</picture>
+<picture>
+<br />
+<source style="padding-top: 4px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mactanxin.vercel.app/api/top-langs/?username=mactanxin&layout=compact&theme=tokyonight" /><img align="center" src="https://github-readme-stats-mactanxin.vercel.app/api/top-langs/?username=mactanxin&layout=compact" />
+</picture>
 
-[![Xin's GitHub stats](https://github-readme-stats-mactanxin.vercel.app/api?username=mactanxin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-mactanxin.vercel.app/api/top-langs/?username=mactanxin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
