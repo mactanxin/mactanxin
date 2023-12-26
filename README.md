@@ -30,7 +30,7 @@ I'm a `Svelte` lover ❤️
 
 ## Stats
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mactanxin&count_private=true&theme=tokyonight" /><img align="center" src="https://github-readme-stats-mactanxin.vercel.app/api?username=mactanxin&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mactanxin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /><img align="center" src="https://bad-apple-github-readme.vercel.app/api??show_bg=1&username=mactanxin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 </picture>
 <picture>
 <br />
