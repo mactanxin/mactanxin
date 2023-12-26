@@ -34,6 +34,6 @@ I'm a `Svelte` lover ❤️
 </picture>
 <picture>
 <br />
-<source style="padding-top: 4px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mactanxin&layout=compact&theme=tokyonight" /><img align="center" src="https://github-readme-stats-mactanxin.vercel.app/api/top-langs/?username=mactanxin&layout=compact" />
+<source style="padding-top: 4px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mactanxin&theme=tokyonight&hide_border=true&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactanxin&theme=buefy&hide_border=true&layout=compact" />
 </picture>
 <!-- [![Top Langs](https://github-readme-stats-mactanxin.vercel.app/api/top-langs/?username=mactanxin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
